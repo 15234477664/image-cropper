@@ -98,4 +98,4 @@
 | setTransform  |{x,y,angle,scale,cutX,cutY}|   无    |图片在原有基础上的变化(scale受min_scale、max_scale影响)|根据需要传参|
 | imgReset      |无	          |   无    |重置图片的角度、缩放、位置(可以在onloadImage回调里使用)|否|
 
-Demo地址：https://github.com/wx-plugin/image-cropper-demo
+Demo地址：https://github.com/15234477664/image-cropper-demo
