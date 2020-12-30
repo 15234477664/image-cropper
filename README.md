@@ -4,8 +4,6 @@
 ###### `2.性能超高超流畅，大图毫无卡顿感。`
 ###### `3.组件化，使用简单。`
 ###### `4.点击中间窗口实时查看裁剪结果。`
-<h2 align = "center" style="">体验Demo</h2>
-<div align=center ><img width="200" height="200" src="https://pubser-res.zhenai.com/other/temp/202006/19/12085876945182.jpg"/></div>
 
 ## 初始准备
 #### 1.json文件中添加image-cropper
@@ -101,10 +99,3 @@
 | imgReset      |无	          |   无    |重置图片的角度、缩放、位置(可以在onloadImage回调里使用)|否|
 
 Demo地址：https://github.com/wx-plugin/image-cropper-demo
-
-如果有什么好的建议欢迎提issues或者提pr
-
-QQ1977474741
-
-## 鼓励作者
-<div align=center ><img width="330" height="330" src="https://pubser-res.zhenai.com/other/temp/202006/27/15321042129368.jpg"/></div>
